@@ -7,5 +7,6 @@ Overview- Job Role, Job Level, Monthly Salary, Salary Hike, attrition rate, etc.
 Demographics- age, gender, ethnicity, seniority, etc.
 Attrition- attrition rate on the basis of tenure, overtime requirement, job role, etc.
 
+Tools: Python, Excel, Power BI
 
 ![image](https://github.com/NandishBhagat/HR-Analytics-PowerBI/assets/89943704/c1babfe3-d1ae-491c-8547-e7c2fe28bb5a)
